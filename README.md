@@ -1,5 +1,5 @@
 # CV
-Zhitao JIANG CV for Graduate Program Application
+ZHITAO JIANG CV for Graduate Program Application
 
 Download Here!👇
 
