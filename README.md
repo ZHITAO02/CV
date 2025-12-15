@@ -10,5 +10,5 @@ ___
 
 ### Preview
 
-![P1](https://github.com/user-attachments/assets/5c47675b-74f8-4bea-a520-c2b5867e976f)
-![P2](https://github.com/user-attachments/assets/999c81b1-a0b4-4316-93ee-00f9d2056e60)
+<img width="839" height="1187" alt="p1" src="https://github.com/user-attachments/assets/87cbf3c0-144d-4b4a-9bdc-f2e89676df67" />
+<img width="841" height="1190" alt="p2" src="https://github.com/user-attachments/assets/efe66e67-75d9-4735-9001-bb36d5de90f2" />
