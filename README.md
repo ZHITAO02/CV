@@ -3,7 +3,8 @@
 ___
 
 ### Download Here!👇 
-### [Zhitao Jiang-CV-Arial.pdf](https://github.com/user-attachments/files/23386812/Zhitao.Jiang-CV-Arial.pdf)
+### [Zhitao Jiang-CV-1215.pdf](https://github.com/ZHITAO02/CV/blob/07a3b090083bd1f63588b242ad82802e00e9b4ea/Zhitao%20Jiang-CV-1215.pdf)
+
 
 ___
 
